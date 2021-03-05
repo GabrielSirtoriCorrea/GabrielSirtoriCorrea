@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sobre mim
+- :boy: 16 anos
+- :blue_book: Estudante do curso técnico em Automação Industrial integrado ao ensino médio no IFSP - Campus Salto
+- :bow: Interesse nas áreas de Internet das Coisas (IoT)  e Robótica
+- :star: Sempre buscando em adquirir mais conhecimento
+- :white_check_mark: Procurando contribuir para a comunidade OpenSource
 
-<!--
-**GabrielSirtoriCorrea/GabrielSirtoriCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meus status
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSirtoriCorrea&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielSirtoriCorrea&hide=issues&theme=tokyonight" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
