@@ -5,7 +5,7 @@
 - :star: Sempre buscando em adquirir mais conhecimento
 - :white_check_mark: Procurando contribuir para a comunidade OpenSource
 
-- :computer:E-mail para contato: gabrielsirtori.correa@gmail.com
+- :computer: E-mail para contato: gabrielsirtori.correa@gmail.com
 
 ### Meus status
 
