@@ -5,6 +5,8 @@
 - :star: Sempre buscando em adquirir mais conhecimento
 - :white_check_mark: Procurando contribuir para a comunidade OpenSource
 
+- E-mail para contato: gabrielsirtori.correa@gmail.com
+
 ### Meus status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
