@@ -1,6 +1,7 @@
 ### Sobre mim
-- :boy: 17 anos
-- :blue_book: Técnico em Automação Industrial - IFSP - Campus Salto
+- :boy: 18 anos
+- :wrench: Técnico em Automação Industrial
+- :blue_book: Cursando Eng. de Controle e Automação - IFSP - Campus Salto
 - :bow: Interesse nas áreas de Internet das Coisas (IoT), Robótica e Automação!!!
 - :star: Sempre buscando em adquirir mais conhecimento
 - :white_check_mark: Procurando contribuir para a comunidade OpenSource
